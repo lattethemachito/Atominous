@@ -19,7 +19,7 @@ body {
 
 /* Stile für die Navigationsleiste */
 .nav {
-    display: flex; /* Verwendet flexibles Box-Layout */
+    display: absolute; /* Verwendet flexibles Box-Layout */
     align-items: center; /* Zentriert die Elemente vertikal */
     justify-content: space-between; /* Verteilt die Elemente gleichmäßig mit Platz dazwischen */
     padding-top: 45px; /* Abstand oben */
